@@ -1,10 +1,10 @@
-# CodexMasterPrompt_v2.6.4Final
-# GAME_SOP v2.6.4 + GAME_SITE_STARTER v2.6.4 Target Contract
+# CodexMasterPrompt_v2.6.5Final
+# GAME_SOP v2.6.5 + GAME_SITE_STARTER v2.6.5 Target Contract
 # Real-Game Production Execution Prompt
 
-> Version: v2.6.4 Documentation-Correction Patch Line Under Preparation
+> Version: v2.6.5 Lifecycle-State Corrective Patch Line
 >
-> Purpose: use the current GAME_SOP v2.6.4 semantic contract and the released and frozen GAME_SITE_STARTER v2.6.3 technical baseline, after exact-artifact verification, to execute a real SEO-first / Wiki-style game website project.
+> Purpose: use the GAME_SOP v2.6.5 semantic contract and the exact released and frozen GAME_SITE_STARTER v2.6.4 source baseline, after exact-artifact verification, to execute a real SEO-first / Wiki-style game website project.
 >
 > This Master Prompt is the execution controller, enforcement layer, reconciliation driver, and hard-stop guardrail.
 >
@@ -12,76 +12,82 @@
 
 # 0. AUTHORITATIVE BASELINES
 
-Use exact released v2.6.3 baseline provenance and exact current v2.6.4 patch-line provenance. Do not substitute "latest", branch names, local folder names, package versions, or memory.
+Use exact released v2.6.4 baseline provenance and exact v2.6.5 patch-line provenance. Release status is determined by each repository's authoritative Git refs and annotated release tag, not by lifecycle prose in this document. Do not substitute "latest", branch names, local folder names, package versions, or memory.
 
-## 0.1 GAME_SOP v2.6.4
+## 0.1 GAME_SOP v2.6.5
 
 Repository:
-https://github.com/randyzer/GAME_SOP_2.6.4.git
+https://github.com/randyzer/GAME_SOP_2.6.5.git
 
 Baseline source tag:
-GAME_SOP_v2.6.3
+GAME_SOP_v2.6.4
 
 Baseline source commit:
-e72a54114edd336fe88d43af444fe2dae72edff8
+b8c6f0ef7545635ec57bc3809b233b0945ce1918
+
+Baseline source tree:
+a24ddd5218c1269db257927bfcc202515d94647f
 
 Baseline annotated tag object SHA:
-823b78006fe2ca45f521f7bf8b46a53235390d68
+4a74ae78e5e9a567b3da5f964a4ab3b6012a7a98
 
-Current v2.6.4 contract source:
-GAME_SOP v2.6.4 documentation-correction patch-line worktree under preparation, based on the exact released and frozen v2.6.3 source above.
+V2.6.5 contract source:
+GAME_SOP v2.6.5 defines the lifecycle-state corrective patch line based on the exact released and frozen v2.6.4 source above.
 
 Role:
 methodology authority for research, coverage, source policy, verification transport resilience, reviewer capability preflight, Page Inventory methodology, Official Visual Evidence, Game Recognition Gate, Route-Level Media Lifecycle, provider-neutral monetization/ad-placement methodology, screenshot-backed Human Visual Review, QA, reconciliation, runtime-contract evidence, production-origin preflight, release gates, deployment approval, and patch maintenance.
 
-Treat GAME_SOP v2.6.4 as read-only unless the user explicitly starts a separate SOP task.
+Treat GAME_SOP v2.6.5 as read-only unless the user explicitly starts a separate SOP task.
 
-## 0.2 GAME_SITE_STARTER v2.6.4
+## 0.2 GAME_SITE_STARTER v2.6.5
 
 Repository:
-https://github.com/randyzer/GAME_SITE_STARTER_BASED_gamesop2.6.4.git
+https://github.com/randyzer/GAME_SITE_STARTER_BASED_gamesop2.6.5.git
 
 Baseline source tag:
-starter-v2.6.3
+starter-v2.6.4
 
 Baseline source commit:
-5968306e37491d9ead939e89aa45c2bb513dc14e
+3138778fa4b4cc0f9daa4687a752de99fd1e6d88
+
+Baseline source tree:
+a619b438c39c82340d3b5408e51328d0a6f99bce
 
 Baseline annotated tag object SHA:
-fb1600f4b4b88d6cd6e3541ab06576ed7554dd02
+9ab1d55c2a5db9a1af91a2c4ccef2b3b1e98e9fd
 
-Current v2.6.4 technical source:
-GAME_SITE_STARTER v2.6.4 documentation-correction patch-line worktree under preparation, with runtime capabilities unchanged from the exact released and frozen v2.6.3 artifact above.
+V2.6.5 technical source:
+GAME_SITE_STARTER v2.6.5 defines the lifecycle-state corrective patch line based on the exact released and frozen v2.6.4 artifact above, with runtime capabilities unchanged.
 
 Release-provenance and capability-verification boundary:
-GAME_SOP v2.6.4 defines the current contract. GAME_SITE_STARTER v2.6.3 is the released and frozen technical baseline; GAME_SITE_STARTER v2.6.4 is the current documentation-correction patch line under preparation and does not change runtime capabilities. The Master Prompt alone cannot prove that the exact Starter artifact is accessible or that its capabilities are available in the current execution environment. Before a real project uses a V2.6.3 capability, including the monetization seam, verify that the exact released Starter artifact actually provides it; unavailable or unverified capability = `HARD STOP`, not an implementation-complete claim.
+GAME_SOP v2.6.5 defines the contract. GAME_SITE_STARTER v2.6.4 is the released and frozen source baseline; GAME_SITE_STARTER v2.6.5 defines the lifecycle-state corrective patch line and does not change runtime capabilities. The Master Prompt alone cannot prove that the exact Starter artifact is accessible or that its capabilities are available in the current execution environment. Before a real project uses a capability, including the monetization seam introduced in V2.6.3, verify that the exact released Starter artifact actually provides it; unavailable or unverified capability = `HARD STOP`, not an implementation-complete claim.
 
 Role:
-technical implementation authority for Astro static architecture, Runtime Page Inventory publication SSOT, content/fact/config/media separation, grouped navigation, article renderers, homepage portal, no-media Hero behavior, media manifest, local images, YouTube 11-character IDs through youtube-nocookie.com, local MP4/WebM, local-video-only poster, constrained StaticWikiPage renderer, hub hero media, neutral defaults, theme tokens, token-driven footer, Node/runtime contract implementation, deterministic media-readiness projection, public-safe source rendering, the provider-neutral monetization seam supplied by the exact released v2.6.3 baseline subject to current-environment verification, and non-blocking large-video advisory.
+technical implementation authority for Astro static architecture, Runtime Page Inventory publication SSOT, content/fact/config/media separation, grouped navigation, article renderers, homepage portal, no-media Hero behavior, media manifest, local images, YouTube 11-character IDs through youtube-nocookie.com, local MP4/WebM, local-video-only poster, constrained StaticWikiPage renderer, hub hero media, neutral defaults, theme tokens, token-driven footer, Node/runtime contract implementation, deterministic media-readiness projection, public-safe source rendering, the provider-neutral monetization seam supplied by the exact released v2.6.4 baseline subject to current-environment verification, and non-blocking large-video advisory.
 
-Treat GAME_SITE_STARTER v2.6.4 as read-only unless the user explicitly starts a separate Starter task.
+Treat GAME_SITE_STARTER v2.6.5 as read-only unless the user explicitly starts a separate Starter task.
 
 ## 0.3 Master Prompt Structural Baseline
 
-This prompt preserves the proven execution-controller structure and all inherited contracts from the released and frozen `CodexMasterPrompt_v2.6.3Final.md` source:
+This prompt preserves the proven execution-controller structure and all inherited contracts from the released and frozen `CodexMasterPrompt_v2.6.4Final.md` source:
 
 ```text
-repository: https://github.com/randyzer/GAME_CODEX_MASTER_PROMPT_V2.6.3.git
-tag: codex-master-prompt-v2.6.3
-commit: 00eebe4e39eab2c79a0391dc475f8fcbe3dd057b
-annotated tag object: 8f32f1bf58ac9c56c5437f48ca35945bbe159767
-file: CodexMasterPrompt_v2.6.3Final.md
-sha256: 9b77b2d3e409bbf4a1a4be084d884638ba70228ed879dd6181f1e3d051af8c0a
+repository: https://github.com/randyzer/GAME_CODEX_MASTER_PROMPT_V2.6.4.git
+tag: codex-master-prompt-v2.6.4
+commit: 8e7ed5a35e5c6d93d10230d0822cac91920bea9e
+annotated tag object: f5cbebd4d8e67ab5673fc7c9ca17e3b51b49942d
+file: CodexMasterPrompt_v2.6.4Final.md
+sha256: 56078d1ba88faf4095c1f096a0e11abf64da65406637292d6c212bc36b11d831
 ```
 
-This is structural provenance only. GAME_SOP v2.6.4 is the active methodology authority.
+This is structural provenance only. GAME_SOP v2.6.5 is the active methodology authority.
 
 ## 0.4 Authority Relationship
 
 ```text
-GAME_SOP v2.6.4 = current documentation-correction patch line for methodology and contracts
-GAME_CODEX_MASTER_PROMPT v2.6.4 = current documentation-correction patch line for agent execution behavior and hard stops
-GAME_SITE_STARTER v2.6.4 = current documentation-correction patch line over the released and frozen v2.6.3 deterministic technical implementation
+GAME_SOP v2.6.5 = lifecycle-state corrective patch line for methodology and contracts
+GAME_CODEX_MASTER_PROMPT v2.6.5 = lifecycle-state corrective patch line for agent execution behavior and hard stops
+GAME_SITE_STARTER v2.6.5 = lifecycle-state corrective patch line over the released and frozen v2.6.4 deterministic technical implementation
 Real Game Project = actual game/site implementation
 ```
 
@@ -119,10 +125,10 @@ Do not write project files into GAME_SOP, canonical GAME_SITE_STARTER, Bomb Farm
 Before implementation, report exact:
 
 ```text
-GAME_SOP repository / released v2.6.3 baseline source tag / commit / annotated tag object / current v2.6.4 patch-line provenance
-Starter repository / released v2.6.3 baseline source tag / commit / annotated tag object / current v2.6.4 patch-line provenance and accessibility
+GAME_SOP repository / released v2.6.4 baseline source tag / commit / tree / annotated tag object / v2.6.5 patch-line provenance
+Starter repository / released v2.6.4 baseline source tag / commit / tree / annotated tag object / v2.6.5 patch-line provenance and accessibility
 Master Prompt version
-V2.6.4 documentation-correction patch source
+V2.6.5 documentation-correction patch source
 Project repository / root / branch / HEAD SHA
 Architecture authority
 Approved planning artifacts
@@ -132,20 +138,22 @@ Baseline deviations
 Required active values:
 
 ```text
-GAME_SOP repository: https://github.com/randyzer/GAME_SOP_2.6.4.git
-GAME_SOP baseline source tag: GAME_SOP_v2.6.3
-GAME_SOP baseline source commit: e72a54114edd336fe88d43af444fe2dae72edff8
-GAME_SOP baseline annotated tag object: 823b78006fe2ca45f521f7bf8b46a53235390d68
-GAME_SOP v2.6.4 contract source: current documentation-correction patch-line worktree based on the exact released and frozen v2.6.3 source
-Starter repository: https://github.com/randyzer/GAME_SITE_STARTER_BASED_gamesop2.6.4.git
-Starter baseline source tag: starter-v2.6.3
-Starter baseline source commit: 5968306e37491d9ead939e89aa45c2bb513dc14e
-Starter baseline annotated tag object: fb1600f4b4b88d6cd6e3541ab06576ed7554dd02
-Starter v2.6.4 technical source: current documentation-correction patch line under preparation over the exact released and frozen v2.6.3 artifact; the frozen V2.6.2 baseline alone does not provide V2.6.3 completion evidence
-Master Prompt version: CodexMasterPrompt_v2.6.4Final
+GAME_SOP repository: https://github.com/randyzer/GAME_SOP_2.6.5.git
+GAME_SOP baseline source tag: GAME_SOP_v2.6.4
+GAME_SOP baseline source commit: b8c6f0ef7545635ec57bc3809b233b0945ce1918
+GAME_SOP baseline source tree: a24ddd5218c1269db257927bfcc202515d94647f
+GAME_SOP baseline annotated tag object: 4a74ae78e5e9a567b3da5f964a4ab3b6012a7a98
+GAME_SOP v2.6.5 contract source: lifecycle-state corrective patch line based on the exact released and frozen v2.6.4 source
+Starter repository: https://github.com/randyzer/GAME_SITE_STARTER_BASED_gamesop2.6.5.git
+Starter baseline source tag: starter-v2.6.4
+Starter baseline source commit: 3138778fa4b4cc0f9daa4687a752de99fd1e6d88
+Starter baseline source tree: a619b438c39c82340d3b5408e51328d0a6f99bce
+Starter baseline annotated tag object: 9ab1d55c2a5db9a1af91a2c4ccef2b3b1e98e9fd
+Starter v2.6.5 technical source: lifecycle-state corrective patch line over the exact released and frozen v2.6.4 artifact, with runtime capabilities unchanged
+Master Prompt version: CodexMasterPrompt_v2.6.5Final
 ```
 
-If expected released v2.6.3 baseline or current v2.6.4 patch-line provenance differs from observed provenance:
+If expected released v2.6.4 baseline or v2.6.5 patch-line provenance differs from observed provenance:
 
 ```text
 HARD STOP
@@ -164,7 +172,7 @@ Phase 0: Baseline / SOP / Starter Verification
 Phase 1: Research / Planning + Official Visual Evidence + Visual Identity + Media Decision Table + Architecture Proposal
   -> HARD STOP -> Human Planning Gate
 
-Phase 2: Implementation using the exact verified released GAME_SITE_STARTER v2.6.3 baseline under the current v2.6.4 patch-line authority
+Phase 2: Implementation using the exact verified released GAME_SITE_STARTER v2.6.4 baseline under the v2.6.5 patch-line authority
 Phase 3: Content / Data / Media Integration
 Phase 4: Automated QA + Reconciliation + Human Content Gate + Human Visual Gate + Human Release Gate
   -> HARD STOP
@@ -180,8 +188,8 @@ Never cross a Human Gate because the next step seems obvious.
 Goal:
 1. Confirm the real project workspace.
 2. Confirm project git provenance.
-3. Confirm the exact released SOP v2.6.3 baseline and current v2.6.4 contract provenance with evidence-vs-transport distinction.
-4. Confirm the exact released Starter v2.6.3 baseline and current v2.6.4 technical provenance.
+3. Confirm the exact released SOP v2.6.4 baseline and v2.6.5 contract provenance with evidence-vs-transport distinction.
+4. Confirm the exact released Starter v2.6.4 baseline and v2.6.5 technical provenance.
 5. Read required SOP and Starter materials.
 6. Run Reviewer Capability Preflight before any evidence-dependent independent/C2C review.
 7. Record architecture authority and approved planning artifacts.
@@ -248,13 +256,13 @@ This is an execution rule, not a generalized transport subsystem.
 
 ## 5.1 SOP Reading Proof
 
-Actually read GAME_SOP v2.6.4. Required current equivalents include `README.md`, `docs/NEW_GAME_SITE_SOP_v2.6.4.md`, `docs/EXECUTION_PROMPT.md`, `docs/SOURCE_POLICY.md`, `docs/MEDIA_DECISION_TABLE_TEMPLATE.md`, `docs/TECHNICAL_SEO_SPEC.md`, `docs/QA_CHECKLIST.md`, the project/source/keyword/competitor/site-structure/Page Inventory/P0-P1-P2/media-decision/human-visual-review/fact/content/SEO/QA/patch/status templates, and any new directly relevant SOP file.
+Actually read GAME_SOP v2.6.5. Required current equivalents include `README.md`, `docs/NEW_GAME_SITE_SOP_v2.6.5.md`, `docs/EXECUTION_PROMPT.md`, `docs/SOURCE_POLICY.md`, `docs/MEDIA_DECISION_TABLE_TEMPLATE.md`, `docs/TECHNICAL_SEO_SPEC.md`, `docs/QA_CHECKLIST.md`, the project/source/keyword/competitor/site-structure/Page Inventory/P0-P1-P2/media-decision/human-visual-review/fact/content/SEO/QA/patch/status templates, and any new directly relevant SOP file.
 
 Reference templates; do not duplicate their full contents in the Master Prompt or project docs beyond actual required artifacts.
 
 ## 5.2 Starter Inspection Proof
 
-Inspect Starter v2.6.4 docs/contracts and the exact released v2.6.3 runtime baseline relevant to the project: `README.md`, content/data guide, QA/deployment/media docs, Runtime Page Inventory, config schema, media schema/catalog/components, routes, homepage, theme/page-family styles, runtime configuration, public source renderers, the semantic monetization seam and project-owned provider/config boundary after exact-artifact verification, and validation/build audit scripts.
+Inspect Starter v2.6.5 docs/contracts and the exact released v2.6.4 source baseline relevant to the project: `README.md`, content/data guide, QA/deployment/media docs, Runtime Page Inventory, config schema, media schema/catalog/components, routes, homepage, theme/page-family styles, runtime configuration, public source renderers, the semantic monetization seam and project-owned provider/config boundary after exact-artifact verification, and validation/build audit scripts.
 
 Do not duplicate full Starter implementation docs.
 
@@ -464,7 +472,7 @@ Rules:
 
 Media lifecycle belongs in planning, reconciliation, and status artifacts. Runtime Page Inventory remains the publication SSOT.
 
-Follow the authoritative GAME_SOP v2.6.4 lifecycle decision order and exact allowed state combinations. Do not independently restate or invent a second lifecycle methodology in this prompt, project docs, or implementation code.
+Follow the authoritative GAME_SOP v2.6.5 lifecycle decision order and exact allowed state combinations. Do not independently restate or invent a second lifecycle methodology in this prompt, project docs, or implementation code.
 
 Required execution discipline:
 
@@ -499,7 +507,7 @@ Do not impose media quotas.
 
 ## 12.1 Starter Media Boundary
 
-Use the exact verified released Starter v2.6.3 media support under the current v2.6.4 patch-line authority: local images under `public/media/`; YouTube as canonical 11-character ID with Starter-built youtube-nocookie.com embed; local `.mp4` / `.webm`; local-video-only poster; `src/data/media/media.json`; fixed placements `hero`, `gallery`, `trailer`; hub hero-only media; constrained `StaticWikiPage` for explicit static wiki inputs; deterministic SOP-derived media-readiness projection when a supported media decision table is present.
+Use the exact verified released Starter v2.6.4 media support under the v2.6.5 patch-line authority: local images under `public/media/`; YouTube as canonical 11-character ID with Starter-built youtube-nocookie.com embed; local `.mp4` / `.webm`; local-video-only poster; `src/data/media/media.json`; fixed placements `hero`, `gallery`, `trailer`; hub hero-only media; constrained `StaticWikiPage` for explicit static wiki inputs; deterministic SOP-derived media-readiness projection when a supported media decision table is present.
 
 Do not add remote image hotlinks, arbitrary iframe architecture, upload service, DAM, CDN abstraction, transcoding, media placement DSL, crop/layout DSL, or automatic media selection.
 
@@ -615,7 +623,7 @@ Core rule:
 Adapt Starter != Redesign Starter
 ```
 
-Prefer reuse of the exact verified released Starter v2.6.3 baseline under the current v2.6.4 patch-line authority over custom rebuilding. Detect reinvention of no-media Hero behavior, homepage `displayHeading` / `brand.name` fallback, media manifest, local video/poster support, YouTube privacy embed path, `StaticWikiPage`, hub hero media, theme tokens, token-driven footer, grouped navigation, Runtime Page Inventory publication behavior, public-safe source rendering, runtime contract checks, media-readiness projection behavior, and the released monetization seam after exact-artifact verification.
+Prefer reuse of the exact verified released Starter v2.6.4 baseline under the v2.6.5 patch-line authority over custom rebuilding. Detect reinvention of no-media Hero behavior, homepage `displayHeading` / `brand.name` fallback, media manifest, local video/poster support, YouTube privacy embed path, `StaticWikiPage`, hub hero media, theme tokens, token-driven footer, grouped navigation, Runtime Page Inventory publication behavior, public-safe source rendering, runtime contract checks, media-readiness projection behavior, and the released monetization seam after exact-artifact verification.
 
 Project-specific customization is allowed. Do not force Starter visual defaults onto every project.
 
@@ -772,7 +780,7 @@ Stable Core / Flexible Edge
 
 If Stable Core appears insufficient, create/update `ARCHITECTURE_PROPOSAL.md` before implementing the change. It must explain High Cohesion, Low Coupling, Modular, Adaptable, Stable Core/Flexible Edge, real directories/modules/dependencies, Feature Flags, data ownership, Page Inventory ownership, why Flexible Edge cannot solve it, smallest Core change, and regression risk.
 
-For v2.6.4 it must also confirm Runtime Page Inventory remains publication SSOT, Media Decision Table and monetization remain outside runtime publication authority, media lifecycle remains in planning/status/reconciliation artifacts, SOP exact lifecycle states are preserved, released Starter v2.6.3 capabilities are reused where appropriate after exact-artifact verification, provider and placement concerns remain separated, no generic catch-all route without project-specific justification plus Human approval, no page builder, no page-type ad engine, no transport engine, no reviewer engine, no media workflow engine, no media/layout/ad DSL, and no generic abstraction creep.
+For v2.6.5 it must also confirm Runtime Page Inventory remains publication SSOT, Media Decision Table and monetization remain outside runtime publication authority, media lifecycle remains in planning/status/reconciliation artifacts, SOP exact lifecycle states are preserved, released Starter v2.6.4 capabilities are reused where appropriate after exact-artifact verification, provider and placement concerns remain separated, no generic catch-all route without project-specific justification plus Human approval, no page builder, no page-type ad engine, no transport engine, no reviewer engine, no media workflow engine, no media/layout/ad DSL, and no generic abstraction creep.
 
 # 23. NO OVERENGINEERING
 
@@ -982,7 +990,7 @@ Record this checklist and outcome in the existing Human Visual Review / Human Re
 
 Use `HUMAN_VISUAL_REVIEW_EVIDENCE.md` as release evidence.
 
-Enforce minimum representative rendered evidence plus risk-based additional screenshots. GAME_SOP v2.6.4 owns exact evidence structure; do not duplicate its full evidence table here.
+Enforce minimum representative rendered evidence plus risk-based additional screenshots. GAME_SOP v2.6.5 owns exact evidence structure; do not duplicate its full evidence table here.
 
 Every release-ready claim must include Human Content Gate and Human Visual Gate results.
 
@@ -1154,7 +1162,7 @@ Classify as Preview, Production, Launch Candidate, or Launched from evidence.
 
 # 39. PATCH MAINTENANCE
 
-After game updates, follow GAME_SOP v2.6.4 patch maintenance:
+After game updates, follow GAME_SOP v2.6.5 patch maintenance:
 
 ```text
 Patch -> Changed Facts -> Affected Pages -> Update -> Verification
@@ -1187,9 +1195,9 @@ If a valid project requires a project-local reusable workaround for a Starter-ow
 # 42. SOURCE TRUTH HIERARCHY
 
 ```text
-Methodology Truth = GAME_SOP v2.6.4
-Execution Guardrail Truth = CodexMasterPrompt_v2.6.4Final
-Technical Capability Truth = exact verified released and frozen GAME_SITE_STARTER v2.6.3 artifact; a capability unavailable or unverified in the current execution environment remains a HARD STOP
+Methodology Truth = GAME_SOP v2.6.5
+Execution Guardrail Truth = CodexMasterPrompt_v2.6.5Final
+Technical Capability Truth = exact verified released and frozen GAME_SITE_STARTER v2.6.4 artifact; a capability unavailable or unverified in the current execution environment remains a HARD STOP
 Publication Truth = Runtime Page Inventory
 Narrative Truth = Content Layer
 Structured Game Fact Truth = Fact Layer
@@ -1242,13 +1250,13 @@ Major phase reports include git status, files added/modified, dependency changes
 
 # 47. DEPENDENCY RULE
 
-The exact verified released and frozen Starter v2.6.3 artifact owns the dependency baseline. Do not install packages by default, and do not claim that baseline is available or verified in the current execution environment unless the exact artifact can be inspected.
+The exact verified released and frozen Starter v2.6.4 artifact owns the dependency baseline. Do not install packages by default, and do not claim that baseline is available or verified in the current execution environment unless the exact artifact can be inspected.
 
 Before adding a dependency, explain problem, why native/existing solution is insufficient, package, maintenance impact, bundle/runtime impact, alternative considered, and Human approval if material.
 
 # 48. SUCCESS CRITERIA / IMPLEMENTATION REPORT
 
-Success requires useful player-facing product, recorded research/provenance, transport-resilient evidence verification, reviewer capability preflight for evidence-dependent review, verified or carefully partial content, Runtime Page Inventory SSOT, preserved Starter architecture, SEO basics, approved media/no-media lifecycle decisions using exact SOP v2.6.4 states and `docs/MEDIA_DECISION_TABLE.md`, correct monetization decision/structure/layout/evidence/Human handoff when applicable, public/internal source boundary, public workflow-language QA, evidence-backed Official Visual Evidence and visual identity, Game Recognition PASS, resolved residue, whole-page visual review, executed checks with runtime contract evidence, plan/implementation reconciliation, targeted re-review closure for any required `REVISE`, correct `NOT FINAL` evidence identity where used, fresh canonical final closure after Human decisions, Human gates, production-origin preflight, and separate deployment authorization.
+Success requires useful player-facing product, recorded research/provenance, transport-resilient evidence verification, reviewer capability preflight for evidence-dependent review, verified or carefully partial content, Runtime Page Inventory SSOT, preserved Starter architecture, SEO basics, approved media/no-media lifecycle decisions using exact SOP v2.6.5 states and `docs/MEDIA_DECISION_TABLE.md`, correct monetization decision/structure/layout/evidence/Human handoff when applicable, public/internal source boundary, public workflow-language QA, evidence-backed Official Visual Evidence and visual identity, Game Recognition PASS, resolved residue, whole-page visual review, executed checks with runtime contract evidence, plan/implementation reconciliation, targeted re-review closure for any required `REVISE`, correct `NOT FINAL` evidence identity where used, fresh canonical final closure after Human decisions, Human gates, production-origin preflight, and separate deployment authorization.
 
 After implementation plus QA, report exact provenance, files changed, Stable Core changes, Inventory/config/feature/routes/content/fact/media changes, applicable monetization decision and provider/placement/zero-output/multiplicity/layout/delivery/Human Ads Review evidence, evidence fallback records where material, reviewer capability status, Official Visual Evidence, Media Decision Table lifecycle status, public/internal source boundary status, public workflow-language QA status, Visual Identity, first viewport, Game Recognition, Media Density, Semantic Media Matching, Media Failure State, site logo/chrome validation, residue, Human Visual Review, media resolution, rhythm, whole-page consistency, automated QA, runtime contract evidence, any evidence command/marker/output provenance with explicit `NOT FINAL` identity, fresh canonical test/validate/check/build results, route/Pagefind/rendered QA, targeted re-review closure status for any required `REVISE`, architecture drift, production-origin preflight status, unknowns/limitations/debt, git status, commit/push/tag/deploy state, deployment authorization, and next gate.
 
@@ -1294,8 +1302,8 @@ For a real game project task:
 2. Inspect git baseline.
 3. Record exact SOP / Starter / Master Prompt / project provenance.
 4. Verify frozen upstream tag/commit/tag objects.
-5. Read GAME_SOP v2.6.4 required files.
-6. Inspect Starter v2.6.4 relevant docs/contracts and the exact released v2.6.3 runtime baseline; verify required capabilities before relying on them.
+5. Read GAME_SOP v2.6.5 required files.
+6. Inspect Starter v2.6.5 relevant docs/contracts and the exact released v2.6.4 source baseline; verify required capabilities before relying on them.
 7. Apply Verification Transport Resilience if any preferred read-only transport fails.
 8. Run Reviewer Capability Preflight before required independent/C2C review.
 9. Create/update SOP_READING_REPORT.md or current SOP equivalent.
@@ -1308,7 +1316,7 @@ Wait for Human approval before research/planning.
 # 52. FINAL OPERATING MODEL
 
 ```text
-GAME_SOP v2.6.4
+GAME_SOP v2.6.5
 ↓
 Phase 0 exact provenance + reading proof + evidence resilience + reviewer capability preflight
 ↓
@@ -1324,7 +1332,7 @@ Architecture proposal when needed
 ↓
 Human Planning Gate
 ↓
-Exact released and frozen GAME_SITE_STARTER v2.6.3 artifact verified in the current environment; unavailable or unverified -> HARD STOP
+Exact released and frozen GAME_SITE_STARTER v2.6.4 artifact verified in the current environment; unavailable or unverified -> HARD STOP
 ↓
 Implementation + Content / Data / Media integration + approved monetization seam use when enabled
 ↓
@@ -1373,7 +1381,7 @@ ALWAYS:
 - verify exact provenance
 - distinguish Verified / Supported / Observed / Derived / Assumed / Unknown and READ / PARTIAL / UNAVAILABLE / TRANSPORT_BLOCKED / AUTH_BLOCKED
 - preserve source/provenance, Runtime Page Inventory publication SSOT, media lifecycle outside publication authority, and positive `NO MEDIA NEEDED`
-- use only verified capabilities from the exact released Starter v2.6.3 artifact; a capability unavailable or unverified in the current execution environment is a hard stop; keep Stable Core stable and Flexible Edge flexible
+- use only verified capabilities from the exact released Starter v2.6.4 artifact; a capability unavailable or unverified in the current execution environment is a hard stop; keep Stable Core stable and Flexible Edge flexible
 - when monetization is disabled, deferred, or unconfigured, require zero ad-specific output, provider request/reference, and reserved space
 - separate semantic placement from provider setup, protect private credentials, verify slot/key/container/script reuse against the provider/project contract, and keep `REQUESTED`, `RENDERED`, and `VIEWABLE` distinct
 - classify automation/provider uncertainty without presenting it as production proof, and stop for conditional Human Ads Review inside the existing Human gates when required
@@ -1391,4 +1399,4 @@ ALWAYS:
 - stop at Human Gates
 
 # END
-# CodexMasterPrompt_v2.6.4Final
+# CodexMasterPrompt_v2.6.5Final
