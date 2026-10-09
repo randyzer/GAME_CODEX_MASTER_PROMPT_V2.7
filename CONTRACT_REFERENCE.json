@@ -1,0 +1,24 @@
+{
+  "canonical_contract": {
+    "systemVersion": "V2.7",
+    "productContractVersion": "V2.7",
+    "capabilityRegistryVersion": "V2.7",
+    "canonicalPath": "docs/COMMERCIAL_GAME_SITE_PRODUCT_CONTRACT_V2.7.md",
+    "owningArtifact": "GAME_SOP",
+    "sha256": "1ff2bd01a089975c6b22bff48ca71faffe2be9c710d0123afd3ae47acc7ac24c",
+    "predecessorContractVersion": "v0.2",
+    "predecessorSha256": "3fe0c98d7e98f963de37fd80b3f2dbe33a822b810a1f268ec4aaef8dad90682a"
+  },
+  "sopCandidate": {
+    "sourceBaselineCommit": "9a13b7314b9cb102b0c440d9677ab22400109e8f",
+    "sourceBaselineTree": "e485499deac3dafea83391000d9cfa6e37d4a0c3",
+    "candidatePath": "Repo_hotgameweb/GAME_SOP_V2.7"
+  },
+  "promptSource": {
+    "sourcePath": "Repo_hotgameweb/GAME_CODEX_MASTER_PROMPT_V2.6.5",
+    "sourceBaselineCommit": "f655a0e08529060be8b716330ffcecf489a4484d",
+    "sourceBaselineTree": "6adc7107c498459ed92696cb189cfc1ec9915258"
+  },
+  "stage": "V2.7_CANDIDATE_DELIVERY_PREPARATION",
+  "containsRegistryRows": false
+}
